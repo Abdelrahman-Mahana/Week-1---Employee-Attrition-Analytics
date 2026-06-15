@@ -14,7 +14,7 @@ st.set_page_config(
 )
 
 # ============== KAYFA BRANDING ==============
-KAYFA_LOGO_PATH = "/home/abdelrahman-mahana/.gemini/antigravity-ide/brain/283ac720-d644-47c7-bcaf-b415e03e3a3a/media__1781543695610.png"
+KAYFA_LOGO_PATH = "logo.png"
 
 # ============== CUSTOM CSS ==============
 st.markdown("""
