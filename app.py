@@ -677,4 +677,3 @@ with tab_drivers:
     """)
     
     st.markdown("---")
-    st.markdown("<center><small>Built for Kayfa AI & Data Analytics Internship | Week 1 Task</small></center>", unsafe_allow_html=True)
