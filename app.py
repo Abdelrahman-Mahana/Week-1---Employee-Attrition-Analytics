@@ -675,5 +675,5 @@ with tab_drivers:
     > **Secondary priorities:** (1) Clear promotion pathways with 3+ advancement milestones,
     > and (2) Work-life balance monitoring and intervention programs.
     """)
-    
+    Brief Description of the Dashboard's Functionality (1-3 sentences)
     st.markdown("---")
